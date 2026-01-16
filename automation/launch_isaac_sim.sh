@@ -1,0 +1,1 @@
+~/isaacsim/isaac-sim.sh --file ~/home/koulyves/documents/eva_robot/eva_urdf_v3.usd
