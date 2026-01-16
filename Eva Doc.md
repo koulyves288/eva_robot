@@ -3,9 +3,10 @@
 The built in terminal in Ubuntu is not stable enough to run mupltiple terminal instances. Use the Terminator terminal instead
 
 ## Launch Isaac Sim - Open new terminal
+```
 cd ~isaacsim
 ./isaac-sim-selector.h
-
+```
 Action: Press PLAY inside the simulator
 
 ## Make the robot move - Open new terminal
