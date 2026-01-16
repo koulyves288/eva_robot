@@ -1,9 +1,9 @@
-# System Requirements
-### OS: ### Ubuntu 24.04, ROS2 jazzy (distro)
-### Platform: Isaac sim 5.1
-### Graphics: Nvidia GeForce RTX
-### Accessories: xbox controller
-### Tools: Terminator (terminal)
+## System Requirements
+**OS:** Ubuntu 24.04, ROS2 jazzy (distro)
+**Platform:** Isaac sim 5.1
+**Graphics:** Nvidia GeForce RTX
+**Accessories:** xbox controller
+**Tools:** Terminator (terminal)
 
 ## Launch Terminal (terminator)
 
