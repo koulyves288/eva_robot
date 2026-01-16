@@ -9,6 +9,14 @@
 
 The built in terminal in Ubuntu is not stable enough to run mupltiple terminal instances. Use the Terminator terminal instead
 
+Instructions:
+`
+ctrl + shift + E ==> opens a new terminal horizontally
+`
+`
+ctrl + shift + O ==> opens a new terminal vertically
+`
+
 ## Launch Isaac Sim - Open new terminal
 ```
 cd ~isaacsim
