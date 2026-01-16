@@ -61,7 +61,8 @@ ros2 topic echo /joy
 
 ### Create config file for the controller
 nano ~/my_xbox.yaml
-Paste the content below"
+Paste the content below:
+`
 teleop_twist_joy_node:
   ros__parameters:
     axis_linear:  {x: 1}   # Left Stick Up/Down
@@ -72,7 +73,7 @@ teleop_twist_joy_node:
     scale_angular: {yaw: 1.0} # Turn Speed (rad/s)
     
     enable_button: 0       # Button 'A'
-    require_enable_button: true
+    require_enable_button: true`
     
 Press Ctrl+O, Enter to save.
 
